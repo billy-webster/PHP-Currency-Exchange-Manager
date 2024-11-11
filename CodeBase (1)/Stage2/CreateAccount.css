@@ -1,0 +1,63 @@
+body {
+    background-color: #e3f2ff;
+}
+
+.titletext {
+    text-align: center;
+    font-size: 60px;
+    margin: 20px;
+    margin-top: 40px;
+    background-color: #a9d6ff; 
+    color: black;
+    padding: 20px 20px; 
+    border-radius: 15px;
+}
+
+.Form {
+    width: 1000px; 
+    margin: auto; 
+    text-align: center;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    
+}
+
+.submit {
+    margin: 10px auto; 
+    padding: 10px 90px;
+    text-align: center; 
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    background-color: #a9d6ff;
+    color: black;
+    border-radius: 15px;
+    margin-bottom: 200px;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    margin: 10px ; 
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    
+}
+
+.Login{
+    margin: 10px auto; 
+    padding: 10px 90px;
+    text-align: center; 
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    background-color: #a9d6ff;
+    color: black;
+    border-radius: 15px;  
+    text-decoration: none;
+}
+
