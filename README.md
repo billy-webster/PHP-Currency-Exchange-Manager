@@ -1,6 +1,6 @@
 # Currency Exchange Platform
 
-A comprehensive web-based currency exchange system built with PHP and SQLite, featuring user authentication, currency conversion, and administrative management capabilities. This was product of one of my University Modules
+A comprehensive web-based currency exchange system built with PHP and SQLite, featuring user authentication, currency conversion, and administrative management capabilities. This was product of one of my University Modules.
 
 ### User Features
 - **User Authentication**: Secure login/registration system
